@@ -4,7 +4,7 @@
 
 ## Установка
 
-Для работы программы понадобится `Python 3`. Если у вас он не установлен, воспользуйтесь [статьей по его установке]("https://docs.microsoft.com/ru-ru/windows/python/beginners#install-python").
+Для работы программы понадобится `Python 3`. Если у вас он не установлен, воспользуйтесь [статьей по его установке](https://docs.microsoft.com/ru-ru/windows/python/beginners#install-python).
 Скачайте форк репозитория себе на компьютер. Установите зависимости командой в папке проекта:
 ```sh
 pip install -r requirements.txt
@@ -22,7 +22,7 @@ OBJ_FOLDER_NAME="folder"
 
 ## Запуск
 
-Перейдите в командную строку. Вам поможет пункт `Запуск командной строки в Проводнике` [статьи по командной строке]("https://wp-seven.ru/instruktsii/tips/windows-10-tips/komandnaya-stroka-v-windows-10.html#:~:text=В%20Windows%2010%201607%20Anniversary,затем%20на%20Открыть%20командную%20строку").
+Перейдите в командную строку. Вам поможет пункт `Запуск командной строки в Проводнике` [статьи по командной строке](https://wp-seven.ru/instruktsii/tips/windows-10-tips/komandnaya-stroka-v-windows-10.html#:~:text=В%20Windows%2010%201607%20Anniversary,затем%20на%20Открыть%20командную%20строку).
 Для запуска используюте команду в папке проекта:
 ```sh
 python main.py
@@ -30,4 +30,4 @@ python main.py
 
 ## Автор
 
-George Salt: [Вконтакте]("https://vk.com/george_salt"), [YouTube]("https://www.youtube.com/@george20097").
+George Salt: [Вконтакте](https://vk.com/george_salt), [YouTube](https://www.youtube.com/@george20097).
